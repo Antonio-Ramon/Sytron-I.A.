@@ -82,7 +82,7 @@ const handleSubmit = async (e) => {
   loader(messageDiv);
 
   // Obtém a resposta de dados do servidor -> resposta do bot
-  const response = await fetch('http://localhost:5000', {
+  const response = await fetch('https://sytron-i-a.onrender.com/', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
