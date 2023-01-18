@@ -13,7 +13,7 @@ Veja uma demonstração do projeto em: [Sytron-I.A.](https://sytron-i-a.vercel.a
 
 Para instalar as dependências necessárias para este projeto, execute o seguinte comando: `npm install`,
 em seguida na pasta `client`, execute o comando `npm run dev` depois na pasta `server`, execute o comando `npm run server`, 
-em seu navegador acesse usando a url `http://localhost:5173/`
+em seu navegador acesse usando a url `http://localhost:[PORT]/`
 
 ## Exemplos de uso
 
