@@ -6,6 +6,8 @@ const chatContainer = document.querySelector('#chat_container');
 
 let loadInterval;
 
+console.log('E O SALÁRIO Ó :) ?')
+
 // Função que exibe uma animação de carregamento em um elemento HTML
 function loader(element) {
   element.textContent = ''
